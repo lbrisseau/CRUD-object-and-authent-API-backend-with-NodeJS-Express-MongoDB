@@ -17,7 +17,7 @@ Modifiera le produit avec le _id fourni selon les données envoyées dans le cor
 ## DELETE: /api/products/:id
 Supprimera le produit avec le _id fourni.
 
-# API Backend en NodeJS-Express-MongoDB fonctionelle pour Authent (login et signup) d'un User
+# API Backend en NodeJS-Express-MongoDB fonctionnelle pour Authent (login et signup) d'un User
 structurée avec router, controller et middleware
 
 ## POST: /api/auth/signup
