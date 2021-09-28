@@ -1,4 +1,4 @@
-# API Backend en NodeJS-Express-MongoDB fonctionelle pour CRUD d'un objet Thing
+# API Backend en NodeJS-Express-MongoDB fonctionnelle pour CRUD d'un objet Thing
 structurée avec router, controller et middleware
 
 ## GET: /api/products
